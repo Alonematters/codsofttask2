@@ -8,4 +8,4 @@ I joined these three datasets after preprocessing and then developed my model ba
 
 platform used : jupyter lab
 
-programming language : pyhton
+programming language : python
